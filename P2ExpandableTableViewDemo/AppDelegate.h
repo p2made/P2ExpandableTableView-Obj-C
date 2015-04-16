@@ -1,7 +1,9 @@
 //
 //  AppDelegate.h
-//  P2ExpandableTableViewDemo
+//  P2ExpandableTableView
 //
+
+#import <UIKit/UIKit.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 

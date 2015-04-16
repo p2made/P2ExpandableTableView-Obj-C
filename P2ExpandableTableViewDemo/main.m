@@ -1,8 +1,8 @@
 //
 //  main.m
-//  P2ExpandableTableViewDemo
+//  P2ExpandableTableView
 //
-//  Created by Pedro Plowman on 18/10/13.
+//  Created by Pedro Plowman on 20/11/2013.
 //  Copyright (c) 2013 Pedro Plowman. All rights reserved.
 //
 
@@ -12,7 +12,7 @@
 
 int main(int argc, char * argv[])
 {
-	@autoreleasepool {
-	    return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
-	}
+    @autoreleasepool {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+    }
 }
